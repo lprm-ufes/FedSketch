@@ -1,1 +1,1 @@
-**FedSketch
+FedSketch
